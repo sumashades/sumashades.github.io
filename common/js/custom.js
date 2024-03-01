@@ -29,7 +29,8 @@ $(document).ready(function(){
 	
 	// functions	
 	$(".work-car").owlCarousel({
-		items:1,loop:true,nav:true,autoplay: true,autoplaySpeed: 1000,slideSpeed : 100,autoplayTimeout: 6000
+		items:1,loop:true,nav:true,autoplay: true,autoplaySpeed: 1000,slideSpeed : 100,autoplayTimeout: 6000,
+		autoWidth:true
 	  });
 	  
 	  $(function() {
