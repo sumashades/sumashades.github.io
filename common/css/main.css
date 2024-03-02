@@ -6540,12 +6540,6 @@ button.close {
     width: 300px;
   }
 }
-@media (min-width: 992px) {
-  /* line 149, ../../sass/partials/bootstrap/bootstrap/_modals.scss */
-  .modal-lg {
-    width: 900px;
-  }
-}
 @media (min-width: 1200px) {
   /* line 149, ../../sass/partials/bootstrap/bootstrap/_modals.scss */
   .modal-lg {
