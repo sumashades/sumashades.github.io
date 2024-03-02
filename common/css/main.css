@@ -6546,6 +6546,12 @@ button.close {
     width: 900px;
   }
 }
+@media (min-width: 1200px) {
+  /* line 149, ../../sass/partials/bootstrap/bootstrap/_modals.scss */
+  .modal-lg {
+    width: 1000px;
+  }
+}
 /* line 7, ../../sass/partials/bootstrap/bootstrap/_tooltip.scss */
 .tooltip {
   position: absolute;
